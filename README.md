@@ -32,6 +32,7 @@ then rename the fold and put in the arduino library. Now, we have port problems
 5_example->Adafruit_NeoPixel->sample select the right pin from LED 
 #define PIN            1 
 #define NUMPIXELS      1  
+Even the port button is grey, you still can input the code to Gemma arduino.
 
 If you want to check our project code, please check this link:
 https://github.com/Yens-Water/Skirt-of-Liberty
