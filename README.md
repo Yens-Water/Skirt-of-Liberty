@@ -33,6 +33,7 @@ then rename the fold and put in the arduino library. Now, we have port problems
 #define PIN            1 
 #define NUMPIXELS      1  
 
-If you want to check our project code, please check this link:    
+If you want to check our project code, please check this link:
+https://github.com/Yens-Water/Skirt-of-Liberty
 
 Special Thanks Ricardo Nascimento de Oliveira bring a nice workshop for Interface Culture.
