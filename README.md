@@ -21,19 +21,19 @@ Materials:
 
 Technological Part:  
 Fix Arduino problems 
-1_ We need to install the new arduino IDE(1.6.4). 
-2_ Download Adafruit_NeoPixel library (from here: https://learn.adafruit.com/flora-rgb-smart-pixels/run-pixel-test-code), 
+-1_ We need to install the new arduino IDE(1.6.4). 
+-2_ Download Adafruit_NeoPixel library (from here: https://learn.adafruit.com/flora-rgb-smart-pixels/run-pixel-test-code), 
 then rename the fold and put in the arduino library. 
 Now, we have port problems 
-1_ copy this link to reference->additional Boards Manager URLS
-->https://adafruit.github.io/arduino-board-index/package_adafruit_index.json 
-2_ go to Board-> board manger->select type to contributed-> install the adafruit AVR Boards  
-3_ Tools-> Programmer-> select “USBtinyISP” restart the IDE! 
-4_ choose the adafruit gemma 8hz 
-5_ example->Adafruit_NeoPixel->sample select the right pin from LED 
+-1_ copy this link to reference->additional Boards Manager URLS
+https://adafruit.github.io/arduino-board-index/package_adafruit_index.json 
+-2_ go to Board-> board manger->select type to contributed-> install the adafruit AVR Boards  
+-3_ Tools-> Programmer-> select “USBtinyISP” restart the IDE! 
+-4_ choose the adafruit gemma 8hz 
+-5_ example->Adafruit_NeoPixel->sample select the right pin from LED 
 
-"#define PIN            1 "
-"#define NUMPIXELS      1 "
+-"#define PIN            1 "
+-"#define NUMPIXELS      1 "
 
 Even the port button is grey, you still can input the code to Gemma arduino.
 
