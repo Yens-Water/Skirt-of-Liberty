@@ -31,8 +31,8 @@ Now, we have port problems
 3_ Tools-> Programmer-> select “USBtinyISP” restart the IDE! 
 4_choose the adafruit gemma 8hz 
 5_example->Adafruit_NeoPixel->sample select the right pin from LED 
-#define PIN            1 
-#define NUMPIXELS      1  
+"#define PIN            1 "
+"#define NUMPIXELS      1 "
 Even the port button is grey, you still can input the code to Gemma arduino.
 
 If you want to check our project code, please check this link:
