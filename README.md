@@ -20,7 +20,9 @@ Materials:
 - Velcro   
 
 Technological Part:  
+
 Fix Arduino problems 
+
 -1_ We need to install the new arduino IDE(1.6.4). 
 
 -2_ Download Adafruit_NeoPixel library (from
