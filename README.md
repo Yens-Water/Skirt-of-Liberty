@@ -39,3 +39,5 @@ https://github.com/Yens-Water/Skirt-of-Liberty
 
 Special Thanks Ricardo Nascimento de Oliveira bring a nice workshop for Interface Culture.
 <a href="http://imgur.com/3YOoTRg"><img src="http://i.imgur.com/3YOoTRg.jpg" title="source: imgur.com" /></a>
+<a href="http://imgur.com/jTeMnV0"><img src="http://i.imgur.com/jTeMnV0.jpg" title="source: imgur.com" /></a>
+<a href="http://imgur.com/yBHgNuk"><img src="http://i.imgur.com/yBHgNuk.jpg" title="source: imgur.com" /></a>
