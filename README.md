@@ -23,7 +23,8 @@ Technological Part:
 Fix Arduino problems 
 1_We need to install the new arduino IDE(1.6.4). 
 2_Download Adafruit_NeoPixel library (from here: https://learn.adafruit.com/flora-rgb-smart-pixels/run-pixel-test-code), 
-then rename the fold and put in the arduino library. Now, we have port problems 
+then rename the fold and put in the arduino library. 
+Now, we have port problems 
 1_copy this link to reference->additional Boards Manager URLS
 ->https://adafruit.github.io/arduino-board-index/package_adafruit_index.json 
 2_go to Board-> board manger->select type to contributed-> install the adafruit AVR Boards  
