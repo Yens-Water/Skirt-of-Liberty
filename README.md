@@ -38,3 +38,4 @@ If you want to check our project code, please check this link:
 https://github.com/Yens-Water/Skirt-of-Liberty
 
 Special Thanks Ricardo Nascimento de Oliveira bring a nice workshop for Interface Culture.
+<a href="http://imgur.com/3YOoTRg"><img src="http://i.imgur.com/3YOoTRg.jpg" title="source: imgur.com" /></a>
